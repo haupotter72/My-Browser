@@ -1,0 +1,12 @@
+googletrans==4.0.0rc1
+PyQt6
+requests
+qtawesome
+qdarktheme
+argparse
+subprocess
+dotenv
+openai
+datetime
+urllib
+validators
